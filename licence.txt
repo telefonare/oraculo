@@ -1,0 +1,16 @@
+PERSONAL USE LICENSE
+
+This software is the exclusive property of Pablo Martin. Personal, non-commercial, and non-profit use of the software is authorized for internal segmentation analysis.
+
+Any other use, including but not limited to:
+
+distribution,
+sale,
+transfer to third parties,
+modification or alteration of the software,
+is strictly prohibited.
+
+
+Date: 01/30/2023.
+
+Pablo Martin
